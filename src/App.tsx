@@ -9,7 +9,7 @@ import {
   useColorScheme,
   View,
   Image,
-  Pressable,D:\react-native\hapticFeedbackCLI
+  Pressable,
   ImageSourcePropType,
   Button,
 } from 'react-native';
@@ -25,6 +25,7 @@ import parrot3 from '../assets/images/parrot3.png';
 import krishna2 from '../assets/images/krishna2.jpg';
 import house2 from '../assets/images/house2.png';
 import parrot4 from '../assets/images/parrot4.png';
+
 
 type DiceProps = PropsWithChildren<{
   imageUrl: ImageSourcePropType;
